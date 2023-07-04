@@ -1,5 +1,10 @@
- ✨ Projeto Mini Portifolio Feito durante o evento MAPA DEV WEEK 
- 
-Estudo basico sobre: HTML, CSS E JS Feito por Thiago Luiz Pedrero Nivel: intermediario
+<h1 align="center">Hi 👋, I'm Thiago Pedrero's</h1>
+- 🔭 I’m currently working on [Mini PortFolio](https://t4goz2005.github.io/Mini-Portifolio/)
 
-Nesse projeto é mostrado um exemplo de mini portifolio criado com apenas Html, css e js. ✨
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/thiago pedrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thiago pedrero" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
